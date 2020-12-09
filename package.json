@@ -1,0 +1,22 @@
+{
+  "name": "firebasefunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyhoangvn/firebasefunction.git"
+  },
+  "author": "rango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyhoangvn/firebasefunction/issues"
+  },
+  "homepage": "https://github.com/huyhoangvn/firebasefunction#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

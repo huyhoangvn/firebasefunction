@@ -17,12 +17,12 @@ requestModal.addEventListener('click', (eventParams)=>{
 
 buttonHello.addEventListener('click', ()=>{
     buttonHello.classList.add('active');
-/*
+
     //get function reference
-    const sayHello = firebase.function().https().httpsCallable('sayHello');
+    const sayHello = firebase.functions().httpsCallable('sayHello');
     sayHello({mes : 'Random Reply'}).then((result) => {
         console.log(result.data);
     });//async/return promise
-*/
+
 });
 

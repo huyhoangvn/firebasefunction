@@ -1,0 +1,2 @@
+Cloud function -> database event, auth event ,storage event,.. -> trigger (background)
+               -> HTTPS end point, callable -> trigger(HTTP)

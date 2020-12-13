@@ -106,3 +106,8 @@ button{
     font-family: Consolas, Arial;
     cursor: pointer;
 }
+
+.active {
+    color: #fff;
+    background-color: #4CAF50;
+}
